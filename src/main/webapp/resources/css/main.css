@@ -1,0 +1,49 @@
+.body {
+
+    background-size: 25%;
+    background-repeat: repeat;
+    font-family: monospace;
+}
+
+#date {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#canv {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#authors {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 250%;
+    color: #000000;
+}
+
+.but {
+    color: black;
+    text-align: center;
+    padding: 1% 2%;
+    margin: 2%;
+    font-size: 150%;
+    background: white;
+    border: solid #00ffd8;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+.but:hover {
+    background: #00ffd8;
+}
+.ui-clock {
+    background: none;
+    color: black;
+    font-family: monospace;
+    background-color: white;
+    border: solid #00ffd8;
+    border-radius: 0;
+    text-shadow: none;
+    font-weight: 0;
+}
